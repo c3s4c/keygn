@@ -32,7 +32,7 @@ keygn
 3. 👽 And Done!
 ![image](https://github.com/NimaCodez/keygn/assets/85389307/8e80d51e-6e1f-485b-a6dd-87f44480fe12)
 
-<b><em>Tip: both questions have default values (64 for length adn Hexadecimal (hex) for key tyoe. So you can just press [Enter] and Chill 🦭
+<b><em>Tip: both questions have default values (64 for length adn Hexadecimal (hex) for key type). So you can just press [Enter] and Chill 🦭
 
 Sample Output:
 ```sh
